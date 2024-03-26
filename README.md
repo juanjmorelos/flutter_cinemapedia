@@ -28,7 +28,7 @@ Para correr esta aplicación debes seguir los siguientes pasos:
 git clone https://github.com/juanjmorelos/flutter_cinemapedia.git
 ```
 
-2. Si no tienes API Key en The Movie DB obten una
+2. Si no tienes API Key en The Movie DB obtén una
 3. Copiar el .env.template y renombrarlo a .env
 4. Toma el API Key generado por The Movie DB y agregala en la variable de entorno 
 
