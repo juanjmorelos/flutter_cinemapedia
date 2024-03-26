@@ -13,9 +13,9 @@ Las funionalidades de la aplicación son:
 
 - Mostrar las películas actuales
 - Mostrar las películas que estan por estrenar
-- Mostrar las peliculas que tienen mejor calificación
+- Mostrar las películas que tienen mejor calificación
 - El usuario puede marcar películas favoritas
-- Se puede acceder al detalle de la pelicula y ver un resumen de la misma, además de los actores que participaron en ella
+- Se puede acceder al detalle de la película y ver un resumen de la misma, además de los actores que participaron en ella
 - Puedes buscar películas en el buscador integrado
 
 
