@@ -1,6 +1,38 @@
-# cinemapedia
+# Cinemapedia
+
+## Descripción del proyecto
+Cinemapedia es un proyecto realizado en flutter utilizanbdo clean arquitecture, se utilizaron las siguientes herramientas:
+- Riverpod provider como gestor de cambios de estado
+- Dio para la realización de solicitudes http
+- Isar Database para base de datos local
+- The Moview DB para la obtención de los datos
+
+Este proyecto tiene como finalidad realizar una práctica de una aplicación real y funcional utilizando las herramientas antes mencionadas. 
+
+Las funionalidades de la aplicación son:
+
+- Mostrar las películas actuales
+- Mostrar las películas que estan por estrenar
+- Mostrar las peliculas que tienen mejor calificación
+- El usuario puede marcar películas favoritas
+- Se puede acceder al detalle de la pelicula y ver un resumen de la misma, además de los actores que participaron en ella
+- Puedes buscar películas en el buscador integrado
+
 
 ## Dev
 
-1. Copiar el .env.template y renombrarlo a .env
-2. Cambiar las variables de entorno (The MovieDB)
+Para correr esta aplicación debes seguir los siguientes pasos:
+
+1. Clona el repositorio utilizando el siguiente comando
+```
+git clone https://github.com/juanjmorelos/flutter_cinemapedia.git
+```
+
+2. Si no tienes API Key en The Movie DB obten una
+3. Copiar el .env.template y renombrarlo a .env
+4. Toma el API Key generado por The Movie DB y agregala en la variable de entorno 
+
+```
+THE_MOVIEDB_KEY=AQUI_VA_TU_API_KEY
+```
+5. Utiliza un IDE como Android Studio o un editor de texto como Visual Studio Code y compila el proyecto 
