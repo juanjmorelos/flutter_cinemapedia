@@ -1,11 +1,11 @@
 # Cinemapedia
 
 ## Descripción del proyecto
-Cinemapedia es un proyecto realizado en flutter utilizanbdo clean arquitecture, se utilizaron las siguientes herramientas:
+Cinemapedia es un proyecto realizado en flutter utilizando clean arquitecture, se utilizaron las siguientes herramientas:
 - Riverpod provider como gestor de cambios de estado
 - Dio para la realización de solicitudes http
 - Isar Database para base de datos local
-- The Moview DB para la obtención de los datos
+- The Movie DB para la obtención de los datos
 
 Este proyecto tiene como finalidad realizar una práctica de una aplicación real y funcional utilizando las herramientas antes mencionadas. 
 
@@ -19,7 +19,7 @@ Las funionalidades de la aplicación son:
 - Puedes buscar películas en el buscador integrado
 
 
-## Dev
+## Instrucciones para correr el proyecto
 
 Para correr esta aplicación debes seguir los siguientes pasos:
 
